@@ -1,0 +1,14 @@
+
+前台登录页面
+http://localhost:8080/wanjuzulinxitpng/front/index.html
+
+后台登录页面
+http://localhost:8080/wanjuzulinxitpng/admin/dist/index.html
+
+管理员				账户:admin 		密码：admin
+用户				账户:a1 		密码：123456
+用户				账户:a2 		密码：123456
+用户				账户:a3 		密码：123456
+
+
+图片存放路径： src\main\webapp\upload 里面上传图片名里面不能有中文
